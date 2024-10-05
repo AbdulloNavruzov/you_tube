@@ -8,13 +8,20 @@ public class YouTubeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YouTubeApplication.class, args);
+
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
+		System.out.println("dfghgwdef");
 		System.out.println("qwert");
 		System.out.println("qwert");
 		System.out.println("qwert");
 		System.out.println("hi gitler");
+		System.out.println("werty");
 
-
-		System.out.println("dfhfgdfdg");
 	}
  // opkopdssccscd
 
