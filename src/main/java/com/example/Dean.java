@@ -1,5 +1,7 @@
 package com.example;
 
-public class Dean {
+public class Dean{
+    private String name;
+
     private String surname;
 }
